@@ -16,6 +16,7 @@ MIT License
 6. [Incentive Management Processing Queue](#incentive-management-processing-queue)
 7. [Incentive Event Processor](#incentive-event-processor)
 8. [Incentive Actions](#incentive-actions)
+9. [Wiring](#wiring)
 
 ### Problem
 
