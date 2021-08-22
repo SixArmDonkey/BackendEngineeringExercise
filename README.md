@@ -154,7 +154,7 @@ In the above incentive processor diagram, the action/strategy processing is desc
 
 ### Wiring 
 
-The following source example (also available in ![Demo.php](demo/Demo.php)) illustrates how to "wire" or connect the various 
+The following source example (also available in demo/Demo.php) illustrates how to "wire" or connect the various 
 components.
 
 ```php
