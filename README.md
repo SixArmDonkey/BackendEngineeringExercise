@@ -101,7 +101,7 @@ basically means "don't call us, we'll call you".
 
 The idea is to create either a generic abstraction/interface or one specific to a logging endpoint.  The logging 
 endpoint would contain instances of these visitor objects, and when a data logging event is processed, the 
-cooresponding method on the visitor object is called.  
+corresponding method on the visitor object is called.  
 
 In the demo system, this is accomplished with the interface IEventLogVistor and by calling the method processEvent()
 
